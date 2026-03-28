@@ -4,6 +4,8 @@ A simple and interactive To-Do List application built with **React** and **Vite*
 
 ---
 
+## 🗃️ Repo : https://github.com/code-kasha/todo-list
+
 ## 🚀 Features
 
 - ➕ Add new to-do items
