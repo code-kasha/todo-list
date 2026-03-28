@@ -1,0 +1,19 @@
+{
+	"name": "My To-Do App",
+	"short_name": "ToDo",
+	"description": "A simple and fast To-Do List application.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#4F46E5",
+	"orientation": "portrait",
+	"scope": "/",
+	"icons": [
+		{
+			"src": "/favicon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		}
+	]
+}

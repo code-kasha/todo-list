@@ -6,8 +6,8 @@ Checklist to track progress before submission.
 
 ## 1. ⚙️ Create a React Application (5 marks)
 
-- [] Project created using **Vite** (`npm create vite@latest`)
-- [ ] Application runs without errors (`npm run dev`)
+- [☑️] Project created using **Vite** (`npm create vite@latest`)
+- [☑️] Application runs without errors (`npm run dev`)
 
 ---
 
@@ -67,7 +67,7 @@ Checklist to track progress before submission.
 
 | Section                 | Max Marks | Done? |
 | ----------------------- | --------- | ----- |
-| React App Setup (Vite)  | 5         | ☐     |
+| React App Setup (Vite)  | 5         | ☑️    |
 | Components              | 10        | ☐     |
 | State and Props         | 20        | ☐     |
 | Lists                   | 10        | ☐     |
